@@ -184,16 +184,19 @@ jQuery(document).ready(function ($) {
 
 
 
-    var swiper5 = new Swiper('.s-steps__slider', {
+    var swiper7 = new Swiper('.s-steps__slider', {
         // slidesPerView: 5,
         slidesPerView: 1,
         // spaceBetween: 70,
         // freeMode: true,
-        // loop: true,
+        loop: true,
         navigation: {
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
         },
+        autoplay: {
+            delay: 5000,
+          },
         pagination: {
 			el: '.scr2__ind',
 			type: 'custom',
