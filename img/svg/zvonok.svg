@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194" height="207" viewBox="0 0 194 207">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c02746;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="459" y="821" width="194" height="207" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="20" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="7.071"/>
+      <feFlood result="flood" flood-color="#d51c39" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="508" y="850" width="95" height="108" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iOTUiIGhlaWdodD0iMTA4IiB2aWV3Qm94PSIwIDAgOTUgMTA4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBvcGFjaXR5OiAwLjQ5OwogICAgICAgIGZpbGw6IHVybCgjcmFkaWFsLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50IiBjeD0iNDcuNSIgY3k9IjU0IiByPSI1My4zMSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjUiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iOTUiIGhlaWdodD0iMTA4Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" mode="overlay" in2="blend"/>
+    </filter>
+  </defs>
+  <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-1" d="M589.429,897.249a33.929,33.929,0,0,0-67.858,0v27L508,937.749h95l-13.571-13.5v-27ZM569.071,944.5a13.572,13.572,0,0,1-27.143,0m0-86.25V877h27.143v-18.75a8.271,8.271,0,0,0-8.293-8.25H550.222A8.272,8.272,0,0,0,541.928,858.249Zm20.358,12H548.714v-13.5h13.572v13.5Z" transform="translate(-459 -821)"/>
+</svg>

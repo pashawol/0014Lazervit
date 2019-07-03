@@ -1,0 +1,19 @@
+<svg id="mark" xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7682cc;
+        stroke: #7682cc;
+        stroke-linejoin: round;
+        stroke-opacity: 0.3;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #c02746;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="31.5" cy="31.5" r="24.5"/>
+  <circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-2" cx="31.938" cy="31.94" r="7.438"/>
+</svg>
