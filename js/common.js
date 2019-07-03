@@ -83,18 +83,18 @@ jQuery(document).ready(function ($) {
         $(".before").removeClass("anim");
         $(".s-about-accord .resp-tab-active").next().find(".before").addClass("anim");
     })
-    $(window).on("load", function () {
-        var typed = new Typed('.typed-js', {
-            strings: ["родинок", "папиллом", "бородавок", "кератом"],
-            startDelay: 300,
-            typeSpeed: 150,
-            backSpeed: 100,
-            startDelay: 5,
-            backDelay: 450,
-            showCursor: false,
-            loop: true
-        });
-    })
+    // $(window).on("load", function () {
+    //     var typed = new Typed('.typed-js', {
+    //         strings: ["родинок", "папиллом", "бородавок", "кератом"],
+    //         startDelay: 300,
+    //         typeSpeed: 150,
+    //         backSpeed: 100,
+    //         startDelay: 5,
+    //         backDelay: 450,
+    //         showCursor: false,
+    //         loop: true
+    //     });
+    // })
 // слайдер цвета в карточке
     var swiper4 = new Swiper('.slider-sr-js', {
         // slidesPerView: 5,
